@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## About me 👋
 
 Junior Data Analyst transitioning from project management in architecture.
