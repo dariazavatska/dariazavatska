@@ -3,7 +3,7 @@
 Junior Data Analyst transitioning from project management in architecture.
 
 ## Skills
-- SQL (joins, aggregations)
+- SQL (window functions, CTEs, sunqueries, joins, aggregations)
 - Basic Python
 - Currently learning (pandas, matplotlib)
 - Data analysis & EDA
